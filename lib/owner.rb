@@ -1,4 +1,6 @@
 class Owner
-  attr_accessor: 
-  
+  attr_accessor :pets
+    
+    def initializer (pets)
+      @pets =
 end
