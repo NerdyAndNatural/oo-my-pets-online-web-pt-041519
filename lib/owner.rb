@@ -1,4 +1,4 @@
 class Owner
-  a
+  attr_accessor: 
   
 end
